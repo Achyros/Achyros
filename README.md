@@ -1,5 +1,5 @@
 I am Lunaros Achyros, also known as Luna or Kira.
-- I am a c# developer who creates funny little scripts and Terraria mods.
+- I am a C# developer who creates funny little scripts and Terraria mods.
 - If you recognize my name, the title "Hyperdimension Zero" must be familiar to you.
 - The Abyss stares back.
 
